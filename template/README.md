@@ -1,4 +1,4 @@
-# mpvue-quickstart
+# my-project
 基于小程序开发框架mpvue官方脚手架整合优秀开源插件，使开发风格更接近Vue/Vuex
 
 ## 快速入手
@@ -67,4 +67,3 @@ module.exports = [
 * vue文件中不能缺少script标签，否则会导致编译不了。
 
 * slot插槽数据渲染有问题：https://github.com/Meituan-Dianping/mpvue/issues/427
-

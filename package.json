@@ -1,0 +1,26 @@
+{
+  "name": "mpvue-quickstart",
+  "version": "1.0.0",
+  "description": "mpvue quickstart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meitianyitan/mpvue-quickstart.git"
+  },
+  "keywords": [
+    "mpvue",
+    "quickstart"
+  ],
+  "author": "Weich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meitianyitan/mpvue-quickstart/issues"
+  },
+  "homepage": "https://github.com/meitianyitan/mpvue-quickstart#readme",
+  "devDependencies": {
+    "vue-cli": "^2.9.6"
+  }
+}
